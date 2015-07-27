@@ -1,0 +1,3 @@
+Program made to complete the First Non-Repeated Character challenge on codeval.com. This program takes in a number of strings as an argument. The goal of the challenge is to out put the first non-repeated character of each string.
+After reading in the list of strings, one string (defined as a 'line' with 25 characters in length) at a time in a while loop the strings are iterated through one character at a time. If the current character is not repeated it is printed
+if the character is repeated the program continues to the next character until a non-repeated character is found. Here the file words.txt is used as the list of strings for the program.
